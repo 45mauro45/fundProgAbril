@@ -1,0 +1,4 @@
+Se necesita desarrollar un programa que permita leer una serie de números. 
+La finalización de la carga de datos se producirá cuando el usuario ingrese un número negativo. 
+• Informar si al menos un cero fue procesado durante la cargaSi número ingresado = 0 entonces...
+• Informar si la serie contiene solo números pares e impares alternados
